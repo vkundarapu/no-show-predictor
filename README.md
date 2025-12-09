@@ -9,9 +9,6 @@ Built as a portfolio project to demonstrate data science + software engineering 
 - FastAPI service with Pydantic-validated JSON inputs
 - Streamlit UI for interactive demo
 
-> ⚠️ **Disclaimer:** This project is for learning and demonstration only.  
-> It is **not** intended for real clinical decision-making.
-
 ---
 
 ## 1. Problem & Motivation
